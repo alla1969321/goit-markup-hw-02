@@ -5,6 +5,17 @@
   --accent-color: #18a0fb;
   --primary-white-color: #ffffff;
 }
+body{
+    backgrount-color:var(--primary-white-color);
+    color:var(--primary-text-color);
+    font-family: raleway,sans-serif;
+}
+h1,
+h2,
+h3{
+    font-family:roboto;  
+}
+
 .button{
     color:var:(--primary-white-color);
 }
@@ -16,3 +27,97 @@ color: var(--primary-white-color);
     color: var(--accent-color);
     color:var(--primary-white-color);
 }     
+/* /!--hero--/ */
+.hero-title{
+ color: var(--title-text-color);  
+font-weight: 700;
+Font size: 56px
+Line height: 1.1
+text-align: Center;
+} 
+ .modal-button{
+     font-style: normal;
+ font-weight: 500;
+ font-size: 16px;
+ line-height: 1.5;
+  display: flex;
+  align-items: center;
+  color:#FFFFFF;
+ }
+ ,section-title{
+    color: var(--title-text-color);  
+ }
+ .feature-list .title {
+        color: var(--title-text-color);
+      }
+  .title-strategye
+  {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+
+color: #2E2F42 
+
+ }
+ .text{
+font-weight: 400;
+font-size: 16px;
+line-height: 1.2;
+
+ color: #344455 
+ }
+ .title-Punctuality
+ {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    
+    color: #2E2F42 
+ }
+ .title-Punctuality{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    
+    color: #2E2F42 
+
+ }
+ .title-Diligence{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    
+    color: #2E2F42 
+  
+ }
+ .title-Technologies{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    
+    color: #2E2F42 
+  
+ }
+ .work-list{
+    box-sizing:border-box;
+    width: 360px;
+    height: 300px
+ }
+ .section-description{
+
+ }
+ .staff
+ {font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+   text-align: center;
+   color:  #2E2F42;
+   
+ }
+ .profession{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    
+     color:  #434455 
+ }
