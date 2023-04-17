@@ -5,6 +5,20 @@
   --accent-color: #18a0fb;
   --primary-white-color: #ffffff;
 }
+.logo{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.2;
+display: flex;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
+color: #4D5AE5;
+
+}
 body{
     backgrount-color:var(--primary-white-color);
     color:var(--primary-text-color);
