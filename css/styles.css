@@ -6,31 +6,25 @@
   --primary-white-color: #ffffff;
 }
 .logo{
-    font-family: 'Raleway';
+    font-family: 'Raleway';sans-serif;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
-line-height: 1.2;
-display: flex;
-align-items: center;
-letter-spacing: 0.03em;
-text-transform: uppercase;
+line-height: 1.17;
+
 
 color: #4D5AE5;
 
 }
 .span-one{
    
-font-family: 'Raleway';
-font-style: normal;
+font-family: 'Raleway';sans-serif:
+font-style; normal;
 font-weight: 800;
 font-size: 18px;
-line-height: 1.2;
+line-height: 1.17;
 
-display: flex;
-align-items: center;
-letter-spacing: 0.03em;
-text-transform: uppercase;
+
 
 color: #2E2F42;
  
@@ -47,7 +41,7 @@ h3{
 }
 
 .button{
-    ; color:var:(--primary-white-color);
+     color: var(--primary-white-color);
 }
 .button.primary {
 color: var(--accent-color);
