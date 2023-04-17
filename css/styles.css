@@ -17,7 +17,7 @@ h3{
 }
 
 .button{
-    color:var:(--primary-white-color);
+    ; color:var:(--primary-white-color);
 }
 .button.primary {
 color: var(--accent-color);
@@ -32,7 +32,7 @@ color: var(--primary-white-color);
  color: var(--title-text-color);  
 font-weight: 700;
 Font size: 56px
-Line height: 1.1
+Line-height: 1.1
 text-align: Center;
 } 
  .modal-button{
@@ -44,7 +44,7 @@ text-align: Center;
   align-items: center;
   color:#FFFFFF;
  }
- ,section-title{
+ .section-title{
     color: var(--title-text-color);  
  }
  .feature-list .title {
