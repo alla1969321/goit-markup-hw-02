@@ -1,12 +1,33 @@
 
-
+:root {
+    --main-font: "Open Sans", sans-serif;
+    --secondary-font: "Raleway", sans-serif;
+    --accent-color: #ff6c00;
+  }
+  
+  body {
+    font-family: var(--main-font);
+  }
+  
+  .link {
+    text-decoration: none;
+  }
+  
+  .list {
+    list-style: none;
+  }
+  
+  .address {
+    font-style: normal;
+  }
+  
 .logo{
     font-family: "Raleway", sans-serif;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
 line-height: 1.17;
-
+text-transform: uppercase;
 color: #4D5AE5;
 
 }
@@ -38,9 +59,7 @@ text-transform: uppercase ;
 color: #2E2F42;
  
 }
-body{
-    backgrount-color:var(--primary-white-color);
-    color:var(--primary-text-color);
+
     
 }
 h1,
