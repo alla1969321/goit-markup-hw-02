@@ -4,7 +4,9 @@
 }
 --main-font: 'Roboto', sans-serif;
 --secondary-font: "Raleway", sans-serif;
-
+.list{
+   list-style: none;
+}
   
   .link {
    list-style: none;
