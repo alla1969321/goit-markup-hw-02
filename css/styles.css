@@ -101,7 +101,14 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 
 }
-
+.adress-link{
+         font-style: normal;
+      }
+      .link:hover,
+      .link:focus {
+      color: #404BBF;
+      }
+}
 .adress-link{
    font-family: 'Roboto';
    font-style: normal;
