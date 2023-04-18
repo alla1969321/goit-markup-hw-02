@@ -1,13 +1,18 @@
 
 
 
-  .navigation-list-list{
+  .navigation-list {
 
   }
+  .list {
+   list-style: none;
+ }
   body {
     font-family: var(--main-font);
   }
-    
+  .link {
+   text-decoration: none;
+ }
   .address {
     font-style: normal;
   }
@@ -22,10 +27,14 @@ text-transform: uppercase;
 color: #4D5AE5;
 
 }
-.navigation-link-link{
+.navigation-item{
+
+}
+.navigation-link{
    font-family: 'Roboto';
 font-style: normal;
-}.web{
+}
+.logo{
 font-family: "Raleway";
 font-style: normal;
 font-weight: 800;
@@ -46,8 +55,12 @@ letter-spacing: 0.02em;
 
 color: #2E2F42;
 }
+.ontact-mail{
 
-
+}
+.tel-link link{
+   
+}
 
 
 .span-one{
