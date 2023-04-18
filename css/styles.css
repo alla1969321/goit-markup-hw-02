@@ -2,8 +2,10 @@
 .root{
    font-family: var(--main-font);
 }
+:root{
 --main-font: 'Roboto', sans-serif;
---secondary-font: "Raleway", sans-serif;
+--secondary-font: "Raleway", sans-serif;}
+
 .list{
    list-style: none;
 }
