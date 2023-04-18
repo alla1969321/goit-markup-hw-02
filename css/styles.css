@@ -155,6 +155,9 @@ Font size: 56px
 Line-height: 1.17
 text-align: Center;
 } 
+.navigation-link:hover,
+.navigation-link:focus {
+  color: var(--accent-color);}
  .modal-button{
      font-style: normal;
  font-weight: 500;
