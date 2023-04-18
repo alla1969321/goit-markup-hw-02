@@ -2,6 +2,8 @@
 :root{
    font-family: var(--main-font);
 }
+--main-font: 'Roboto', sans-serif;
+--secondary-font: "Raleway", sans-serif;
 
   
   .link {
@@ -104,7 +106,7 @@ color: #2E2F42;
    color: #434455;
    text-decoration: none;
    }
-.tel-link link{
+.tel-link {
    font-family: 'Roboto';
    font-style: normal;
    font-weight: 400;
