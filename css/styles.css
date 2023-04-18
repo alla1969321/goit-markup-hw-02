@@ -1,5 +1,7 @@
 .root{
-   
+   --main-font: "Roboto",sans-serif;
+   --secondary-font: "Raleway", sans-serif;
+   --accent-color:  #2E2F42;
 }
 
   .navigation-list-list{
@@ -14,7 +16,7 @@
   }
   
 .logo-list{
-    font-family: "Raleway", sans-serif;
+   
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
@@ -26,9 +28,18 @@ color: #4D5AE5;
 .navigation-link-link{
    font-family: 'Roboto';
 font-style: normal;
+}.web{
+font-family: "Raleway", sans-serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17;
+text-transform: uppercase;
+color: #4D5AE5;
+
 }
 .studio{
-    font-family: 'Roboto';
+
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
