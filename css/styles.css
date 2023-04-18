@@ -108,7 +108,7 @@ color: #2E2F42;
       .link:focus {
       color: #404BBF;
       }
-}
+
 .adress-link{
    font-family: 'Roboto';
    font-style: normal;
@@ -122,7 +122,7 @@ color: #2E2F42;
    }
   
 
-
+/* hero */
 .span-one{
    
 font-family: 'Raleway';
@@ -156,9 +156,16 @@ color: var(--primary-white-color);
  font-family: "Roboto";
 font-weight: 700;
 Font size: 56px
-Line-height: 1.17
-text-align: Center;
-} 
+Line-height: 1.07
+text-align: center;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}
+
+
+
+
+
 .navigation-link:hover,
 .navigation-link:focus {
   color: var(--accent-color);}
