@@ -1,5 +1,5 @@
 
-:root{
+.root{
    font-family: var(--main-font);
 }
 --main-font: 'Roboto', sans-serif;
@@ -20,6 +20,11 @@
   .address {
     font-style: normal;
   }
+      .link:hover,
+      .link:focus {
+      color: #404BBF;
+      }
+  
   
 .navigation-item{
 
@@ -97,7 +102,7 @@ color: #2E2F42;
 
 }
 
-.contact-mail{
+.adress-link{
    font-family: 'Roboto';
    font-style: normal;
    font-weight: 400;
@@ -108,18 +113,6 @@ color: #2E2F42;
    color: #434455;
    text-decoration: none;
    }
-.tel-link {
-   font-family: 'Roboto';
-   font-style: normal;
-   font-weight: 400;
-   font-size: 16px;
-   line-height: 1.5;
-      
-   letter-spacing: 0.02em;
-   
-   
-   color: #434455;
-}
   
 
 
