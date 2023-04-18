@@ -1,18 +1,12 @@
 
 
-  
+  .navigation-list-list{
+
+  }
   body {
     font-family: var(--main-font);
   }
-  
-  .link {
-    text-decoration: none;
-  }
-  
-  .list {
-    list-style: none;
-  }
-  
+    
   .address {
     font-style: normal;
   }
@@ -27,6 +21,10 @@ text-transform: uppercase;
 color: #4D5AE5;
 
 }
+.navigation-link-link{
+   font-family: 'Roboto';
+font-style: normal;
+}
 .studio{
     font-family: 'Roboto';
 font-style: normal;
@@ -37,9 +35,34 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 
 color: #2E2F42;
+}
 
+
+.portfolio{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+
+letter-spacing: 0.02em;
+
+color: #2E2F42;
+}
+.contacts{
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 1.5;
+   
+   letter-spacing: 0.02em;
+   
+   color: #2E2F42;
+   }
 
 }
+
 .span-one{
    
 font-family: 'Raleway';
