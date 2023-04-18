@@ -26,7 +26,7 @@ color: #4D5AE5;
    font-family: 'Roboto';
 font-style: normal;
 }.web{
-font-family: "Raleway", sans-serif;
+font-family: "Raleway";
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
@@ -87,6 +87,7 @@ color: var(--primary-white-color);
 /* /!--hero--/ */
 .hero-title{
  color: var(--title-text-color);  
+ font-family: "Roboto";
 font-weight: 700;
 Font size: 56px
 Line-height: 1.17
@@ -108,7 +109,7 @@ text-align: Center;
         color: var(--title-text-color);
       }
   .title-strategye
-  {
+  {font-family: "Roboto";
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -116,7 +117,7 @@ line-height: 1.2;
 color: #2E2F42 
 
  }
- .text{
+ .text{font-family: "Roboto";
 font-weight: 400;
 font-size: 16px;
 line-height: 1.2;
@@ -124,22 +125,15 @@ line-height: 1.2;
  color: #344455 
  }
  .title-Punctuality
- {
+ {font-family: "Roboto";
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     
     color: #2E2F42 
- }
- .title-Punctuality{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    
-    color: #2E2F42 
-
  }
  .title-Diligence{
+   font-family: "Roboto";
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -148,6 +142,7 @@ line-height: 1.2;
   
  }
  .title-Technologies{
+   font-family: "Roboto";
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -156,6 +151,7 @@ line-height: 1.2;
   
  }
  .work-list{
+   font-family: "Roboto";
     box-sizing:border-box;
     width: 360px;
     height: 300px
@@ -164,7 +160,8 @@ line-height: 1.2;
 
  }
  .staff
- {font-weight: 500;
+ {font-family: "Roboto";
+   font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
    text-align: center;
@@ -172,6 +169,7 @@ line-height: 1.2;
    
  }
  .profession{
+   font-family: "Roboto";
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
