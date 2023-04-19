@@ -265,10 +265,10 @@ line-height: 1.2;
  }
 
  /* portfolio */
- .filter-button {
+ .button-filter {
 color: #4D5AE5;
 backgroud-color: #F4F4FD;
-cursor: pointer;
+cursor: pointer;}
 .filter-button:hover,
 .filter-button:focus {
 background-color: #404BBF;
