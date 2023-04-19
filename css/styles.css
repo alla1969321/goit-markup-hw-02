@@ -45,7 +45,7 @@ font-family: var(--main-font);}
    }
    .navigation-link:hover,
 .navigation-link:focus {
-  color: var(--accent-color);
+   color: #404bbf;
 }
    
 
