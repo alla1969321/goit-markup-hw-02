@@ -322,7 +322,7 @@ cursor: pointer;}
    
  
 
-.description{
+.description-Banking{
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
@@ -334,12 +334,12 @@ color: #2E2F42;
 }
 .description-direction{
    font-family: 'Roboto';
-   font-style: normal;
+  
    font-weight: 400;
-   font-size: 20px;
-   line-height: 1.2;
+   font-size: 16px;
+   line-height: 1.5;
    letter-spacing: 0.02em;
    
-   color: #2E2F42;
+   color: #434455;
    } 
 }
