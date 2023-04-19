@@ -220,15 +220,8 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2E2F42 ;
  }
- .description{
-   
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2x;
-letter-spacing: 0.02em;
-
-color: #2E2F42;
- }
+ 
+ 
  .section-description{
    font-family: 'Roboto';
 font-style: normal;
@@ -337,7 +330,7 @@ cursor: pointer;}
    
  
 
-.description-Banking{
+.description{
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
@@ -349,7 +342,7 @@ color: #2E2F42;
 }
 .description-direction{
    font-family: 'Roboto';
-     font-weight: 400;
+    font-weight: 400;
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.02em;
