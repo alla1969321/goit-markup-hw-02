@@ -263,3 +263,30 @@ line-height: 1.2;
     
      color:  #434455 
  }
+
+ /* portfolio */
+ .button-active{
+   display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 12px 24px;
+
+width: 69px;
+height: 48px;
+
+background: #404BBF;
+ }
+ .modal-button-first{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+
+color: #FFFFFF;}
+
+
