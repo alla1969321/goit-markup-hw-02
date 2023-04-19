@@ -207,40 +207,18 @@ letter-spacing: 0.02em;
 color: #2E2F42 ;
  }
  .section-description{
-   font-family: "Roboto";
-   font-weight: 400;
-   font-size: 16px;
-   line-height: 1.2;
-    color: #344455 
- }
- .text
- {
- }
- .title-Punctuality
- {font-family: "Roboto";
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    
-    color: #2E2F42 
- }
- .title-Diligence{
-   font-family: "Roboto";
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    
-    color: #2E2F42 
-  
- }
- .title-Technologies{
-   font-family: "Roboto";
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    
-    color: #2E2F42 
-  
+   ont-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5px;
+
+letter-spacing: 0.02em;
+
+
+color: #434455;
+
+ 
  }
  .work-list{
    font-family: "Roboto";
