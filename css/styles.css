@@ -265,12 +265,18 @@ line-height: 1.2;
  }
 
  /* portfolio */
- .button-active{
+ .button-nav-list{
+   background: #F4F4FD;
+}
+
+.button-nav-link:hover,
+.button-nav-link:focus {
+  color: var(--accent-color);}
+ .button-active-list{
    display: flex;
 flex-direction: row;
 align-items: flex-start;
 padding: 12px 24px;
-
 width: 69px;
 height: 48px;
 
@@ -288,5 +294,9 @@ text-align: center;
 letter-spacing: 0.04em;
 
 color: #FFFFFF;}
+.filtr{
+
+
+}
 
 
