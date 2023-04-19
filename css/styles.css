@@ -269,8 +269,8 @@ line-height: 1.2;
 color: #4D5AE5;
 backgroud-color: #F4F4FD;
 cursor: pointer;}
-.filter-button:hover,
-.filter-button:focus {
+.button-filter:hover,
+.button-filter:focus {
 background-color: #404BBF;
 }
  .site-nav-list{
