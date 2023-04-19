@@ -267,10 +267,11 @@ line-height: 1.2;
  /* portfolio */
  .button-filter {
 color: #4D5AE5;
-backgroud-color: #F4F4FD;
+background-color: #F4F4FD;
 cursor: pointer;}
 .button-filter:hover,
 .button-filter:focus {
+   color: white;
 background-color: #404BBF;
 }
  .site-nav-list{
