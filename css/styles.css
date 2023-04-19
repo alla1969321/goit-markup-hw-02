@@ -136,8 +136,9 @@ text-transform: uppercase ;
 color: #2E2F42;
  
 }
-.button:hover,
-       :focus {
+.modal-button:hover,
+  .modal-button:focus {
+   background-color: #404BBF;
          color: #FFFFFF;
        } 
 
