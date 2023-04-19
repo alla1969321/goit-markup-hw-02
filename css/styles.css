@@ -136,7 +136,11 @@ text-transform: uppercase ;
 color: #2E2F42;
  
 }
-
+.button:hover,
+       :focus {
+         color: #FFFFFF;
+       } 
+}
     
 .button{
      color: var(--primary-white-color);
