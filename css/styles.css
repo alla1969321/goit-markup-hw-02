@@ -161,12 +161,12 @@ color: var(--primary-white-color);
 }
 
 .hero-title{
- 
+text-align: center;
  font-family: "Roboto";
 font-weight: 700;
 Font-size:56px;
 Line-height:1.07;
-align-items: center;
+
 letter-spacing: 0.02em;
 color: #FFFFFF;
 }
