@@ -171,11 +171,16 @@ letter-spacing: 0.02em;
 color: #FFFFFF;
 }
 .modal-button{
-   bbackground: #4D5AE5;
-   font-family: "Roboto", sans-serif;
+      font-family: "Roboto", sans-serif;
    letter-spacing: 0.04em ;
    cursor: pointer;
    background-color: #4D5AE5;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 1.5;
+    
+    color:#FFFFFF;
 }
 
 
@@ -184,14 +189,7 @@ color: #FFFFFF;
 .navigation-link:hover,
 .navigation-link:focus {
   color: var(--accent-color);}
- .modal-button{
-     font-style: normal;
- font-weight: 500;
- font-size: 16px;
- line-height: 1.5;
-  
-  color:#FFFFFF;
- }
+ 
  .section-title{
     color: var(--title-text-color);  
  }
