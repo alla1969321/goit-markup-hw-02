@@ -264,18 +264,21 @@ line-height: 1.2;
      color:  #434455 
  }
 
- /* portfolio */.button-filter {
-  background: #F4F4FD;
- color: #FFFFFF;
- }
-.button-filter:hover,
-.button-filter:focus 
- {background: #F4F4FD;
- color: #4D5AE5;
+ /* portfolio */
+ .filter-button {
+color: #4D5AE5;
+backgroud-color: #F4F4FD;
+cursor: pointer;
+.filter-button:hover,
+.filter-button:focus {
+background-color: #404BBF;
 }
  .site-nav-list{
    background: #F4F4FD;
 }
+.
+
+
 
 .button-nav-link:hover,
 .button-nav-link:focus {
@@ -289,7 +292,7 @@ height: 48px;
 
 background: #404BBF;
  }
- .modal-button-first{
+ .button-filter{
     font-family: 'Roboto',sans-serif;
 font-style: normal;
 font-weight: 500;
