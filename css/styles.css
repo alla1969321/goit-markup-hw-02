@@ -317,61 +317,12 @@ letter-spacing: 0.04em;
 ;    color: #4D5AE5;
 background-color: #F4F4FD;
 cursor: pointer;}
-.modal-button-web{
-   font-family: 'Roboto',sans-serif;
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-display: flex;
-align-items: center;
-text-align: center;
-letter-spacing: 0.04em;
 
-color: #4D5AE5;
 
-}
 
-.modal-button-app{
-   font-family: 'Roboto',sans-serif;
-   font-style: normal;
-   font-weight: 500;
-   font-size: 16px;
-   line-height: 1.5;
-   display: flex;
-   align-items: center;
-   text-align: center;
-   letter-spacing: 0.04em;
    
-   color: #4D5AE5;
-   
-   }
-.modal-button-design{
-   font-family: 'Roboto',sans-serif;
-   font-style: normal;
-   font-weight: 500;
-   font-size: 16px;
-   line-height: 1.5;
-   display: flex;
-   align-items: center;
-   text-align: center;
-   letter-spacing: 0.04em;
-   
-   color: #4D5AE5;
-}
-.modal-button-marketing{
-   font-family: 'Roboto',sans-serif;
-   font-style: normal;
-   font-weight: 500;
-   font-size: 16px;
-   line-height: 1.5;
-   display: flex;
-   align-items: center;
-   text-align: center;
-   letter-spacing: 0.04em;
-   
-   color: #4D5AE5; 
-}
+ 
+
 .description{
 font-family: 'Roboto';
 font-style: normal;
