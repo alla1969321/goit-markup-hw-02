@@ -49,9 +49,7 @@ font-family: var(--main-font);}
 .navigation-link:focus {
    color: #404bbf;
 }
-.logo:focus {
-   color: #404bbf;
-}
+
 
 .logo{
  font-family: "Raleway",sans-serif;
