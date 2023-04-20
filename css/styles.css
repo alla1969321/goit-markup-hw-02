@@ -25,8 +25,8 @@ font-family: var(--main-font);}
       color: #404BBF;
       }
   
-  .contact-mail,
-  .contact-phone-number{
+  
+  .contact{
     font-style: normal;
   }
       
