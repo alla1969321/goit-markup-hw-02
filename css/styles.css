@@ -31,7 +31,7 @@ font-family: var(--main-font);}
   }
       
 .navigation-item:hover,
-.navigation-item:focus{
+.logo:focus{
    color: #404bbf;
 }
 .navigation-link{
