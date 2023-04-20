@@ -190,8 +190,9 @@ color: #FFFFFF;
 /*--section-four-- */
 .section-title-People{
 background-color: #F4F4FD;}
-/* .masters{// */
-background-color: #F4F4FD
+/* .masters// */
+..masters
+{background-color: #F4F4FD;
 }
 .mark{
    background-color: #FFFFFF;
