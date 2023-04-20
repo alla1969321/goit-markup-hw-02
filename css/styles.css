@@ -13,7 +13,7 @@ font-family: var(--main-font);}
   
   
   body {
-    font-family: var(--main-font);
+   color:#434455; 
   }
   .link {
    text-decoration: none;
@@ -24,7 +24,8 @@ font-family: var(--main-font);}
       color: #404BBF;
       }
   
-  .address-link {
+  .contact-mail,
+  .contact-phone-number{
     font-style: normal;
   }
       
