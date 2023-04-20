@@ -49,7 +49,7 @@ font-family: var(--main-font);}
 .navigation-link:focus {
    color: #404bbf;
 }
-.logo:focus{
+.logo:focus {
    color: #404bbf;
 }
 
@@ -106,6 +106,9 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2E2F42;
 
+}
+.adress{
+   font-style: normal ; 
 }
 .adress-link{
          font-style: normal;
@@ -184,7 +187,7 @@ color: #FFFFFF;
 }
 /*--section-two-- */
 .section-title{
-   
+
 }
 /*--section-four-- */
 .section-title-People{
