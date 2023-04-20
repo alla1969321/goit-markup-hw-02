@@ -325,10 +325,10 @@ background: #404BBF;
 .description{
 font-family: 'Roboto';
 font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
+font-weight:500;
+font-size:20px;
+line-height:1.2;
+letter-spacing:0.02em;
 color:#2e2f42;
 }
 .description-direction{
