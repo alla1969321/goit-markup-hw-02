@@ -358,3 +358,11 @@ color: #F4F4FD;
 .footer{
    background: #2E2F42;
 }
+.span-two{
+      font-weight: 800;
+   font-size: 18px;
+   line-height: 1.17;
+   letter-spacing: 0.03em;
+   text-transform: uppercase ;
+   color: #f4f4fd;
+}
