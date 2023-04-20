@@ -278,7 +278,7 @@ color: #2E2F42;
  .button-filter {
 color: #4D5AE5;
 background-color: #F4F4FD;
-cursor: pointer}
+cursor: pointer;}
 .button-filter:hover,
 .button-filter:focus {
 
@@ -293,14 +293,14 @@ background-color: #404BBF;
    line-height: 1.5;
    
    
-   letter-spacing: 0.04em;
-   ;    color: #4D5AE5;
-   background-color: #F4F4FD
+   letter-spacing: 0.04em;    color: #4D5AE5;
+   background-color: #F4F4FD;
 }
 
 ..site-nav-list:hover,
 ..site-nav-list:focus {
-   color: #FFFFFF}
+   color: #FFFFFF;
+}
 
  
 
@@ -342,6 +342,6 @@ color: #2E2F42;
    
    color: #434455;
    } 
-   .section-title-img
-   .section-title list
-   section-title-description
+   
+   .section-title {background: #FFFFFF;}
+   .section-title-description
