@@ -298,15 +298,11 @@ background-color: #404BBF;
    background-color: #F4F4FD
 }
 
-.button-nav-link:hover,
-.button-nav-link:focus {
-  color: var(--accent-color);}
+..site-nav-list:hover,
+..site-nav-list:focus {
+   color: #FFFFFF}
 
- .button-active-list{
-   
-padding: 12px 24px;
-width: 69px;
-height: 48px;
+ 
 
 background: #404BBF;
  }
