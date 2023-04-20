@@ -2,7 +2,7 @@
 {
 --main-font: 'Roboto', sans-serif;
 --secondary-font: "Raleway", sans-serif;
-font-family: var(--main-font);}
+}
 
 .list{
    list-style: none;
@@ -215,9 +215,7 @@ color: #2E2F42;
 .work-list{
    background-color: #FFFFFF; 
 }
-.navigation-link:hover,
-.navigation-link:focus {
-  color: var(--accent-color);}
+.
  
  .section-title{
     color: var(--title-text-color);  
