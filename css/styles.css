@@ -30,9 +30,8 @@ font-family: var(--main-font);}
     font-style: normal;
   }
       
-  
 .navigation-item:hover,
-.navigation-item:focus{
+.navigation-item: {
    color: #404bbf ;
 }
 .navigation-link{
@@ -46,8 +45,8 @@ font-family: var(--main-font);}
    
    color: #2E2F42;
    }
-   .navigation-link:hover,
-.navigation-link:focus{
+.navigation-link:hover,
+.navigation-link:focus {
    color: #404bbf;
 }
    
