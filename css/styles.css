@@ -319,9 +319,8 @@ cursor: pointer;}
 
 background: #404BBF;
  
-.description{
-font-family: 'Roboto';
-font-style: normal;
+.description
+{
 font-weight:500;
 font-size:20px;
 line-height:1.2;
