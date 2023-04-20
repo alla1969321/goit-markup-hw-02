@@ -31,10 +31,11 @@ font-family: var(--main-font);}
   }
       
 .navigation-item:hover,
-.navigation-item:focus{
+.navigation-item:focus {
    color: #404bbf;
 }
-.navigation-link{
+.navigation-link
+{
    font-family: "Raleway",sans-serif;
    font-style: normal;
    font-weight: 500;
