@@ -210,7 +210,9 @@ text-transform: capitalize;
 color: #2E2F42;
 
 }
-
+.section-title-People{
+   background-color: #FFFFFF; 
+}
 .navigation-link:hover,
 .navigation-link:focus {
   color: var(--accent-color);}
