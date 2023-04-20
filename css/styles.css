@@ -190,6 +190,9 @@ background-color: #F4F4FD;}
 .masters{
 background-color: #F4F4FD
 }
+.mark{
+   background-color: #FFFFFF;
+}
 .section-four{
    font-family: 'Roboto';
 font-style: normal;
@@ -200,7 +203,7 @@ line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
-background-color: #FFFFFF;
+
 color: #2E2F42;
 
 }
