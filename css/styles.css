@@ -150,13 +150,7 @@ color: #2E2F42;
      color: var(--primary-white-color);
      background: #4D5AE5;
 }
-.button.primary {
-color: var(--accent-color);
-color: var(--primary-white-color);
-}
-.button.secondary{
-    color: var(--accent-color);
-    color:var(--primary-white-color);
+
 }     
 /* /!--hero--/ */
 
