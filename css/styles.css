@@ -215,9 +215,7 @@ color: #2E2F42;
 .work-list{
    background-color: #FFFFFF; 
 }
- .section-title{
-    color: var(--title-text-color);  
- }
+ 
  .feature-list .title {
         color: var(--title-text-color);
       }
