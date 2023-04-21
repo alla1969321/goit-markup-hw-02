@@ -8,8 +8,7 @@
    list-style: none;
    text-decoration: none
 }
-  
-  
+    
   body {
    color:#434455; 
    background-color:#FFFFFF;
@@ -17,14 +16,8 @@
   }
   .link {
    text-decoration: none;
-   list-style: none;
- }
- .link:hover,
-      .link:focus{
-      color: #404BBF;
-      }
-  
-  
+  }
+   
   .contact{
     font-style: normal;
   }
@@ -49,7 +42,6 @@
 .navigation-link:focus {
    color: #404bbf;
 }
-
 
 .logo{
  font-family: "Raleway",sans-serif;
@@ -85,15 +77,8 @@ color: #4D5AE5;
 
 
 .portfolio{
-    font-family: 'Roboto';
-   font-style: normal;
-   font-weight: 500;
-   font-size: 16px;
-   line-height: 1.5;
-   letter-spacing: 0.02em;
-      color: #2E2F42;
-    
-}
+   
+      }
 
 .contacts{
    font-family: 'Roboto';
@@ -110,7 +95,7 @@ color: #2E2F42;
 }
 .adress-link{
          font-style: normal;
-         font-family: 'Roboto';
+        
          font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -123,9 +108,6 @@ color: #2E2F42;
       .link:focus {
       color: #404BBF;
       }
-
-  
-
 
 .span-one{
    
@@ -228,8 +210,6 @@ color: #2E2F42;
 .work-list{
    background-color: #FFFFFF; 
 }
-.
- 
  .section-title{
     color: var(--title-text-color);  
  }
@@ -245,14 +225,12 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2E2F42 ;
  }
- .section{
-   background-color: #F4F4FD ;
- }
+ 
  
  .section-description{
-   font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
+  
+
+
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -261,41 +239,24 @@ color: #434455;
  }
  .work-list{
    font-family: "Roboto";
-    box-sizing:border-box;
-    width: 360px;
-    height: 300px
+      
  }
  .section-title{
-   font-family: 'Roboto';
-font-style: normal;
-font-weight: 700;
-font-size: 36px;
-line-height: 1.11;
-
-text-align: center;
-letter-spacing: 0.02em;
-text-transform: capitalize;
-
-
-color: #2E2F42;
-
+  
  }
  .section-description{
    background: #FFFFFF;
  }
  .staff
  {
-   font-family: "Roboto";
-   font-weight: 500;
+      font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
    color:  #2E2F42;
  }
  .profession{
-   font-family: "Roboto";
-    font-weight: 400;
-    font-size: 16px;
+       font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
      color:  #434455 
@@ -322,20 +283,13 @@ background-color: #F4F4FD;
 cursor: pointer;}
 
  .site-nav-list{
-   background: #F4F4FD;
-   font-family: 'Roboto',sans-serif;
-   font-style: normal;
-   font-weight: 500;
-   font-size: 16px;
-   line-height: 1.5;
    
+    
    
-   letter-spacing: 0.04em;    color: #4D5AE5;
-   background-color: #F4F4FD;
 }
 
-..site-nav-list:hover,
-..site-nav-list:focus {
+.site-nav-list:hover,
+.site-nav-list:focus {
    color: #FFFFFF;
 }
 
@@ -352,8 +306,7 @@ cursor: pointer;}
 color: #2e2f42;
 }
 .description-direction{
-   font-family: 'Roboto';
-    font-weight: 400;
+  
    font-size: 16px;
    line-height: 1.5;
    letter-spacing: 0.02em;
