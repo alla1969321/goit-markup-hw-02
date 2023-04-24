@@ -2,7 +2,12 @@
 {
 --main-font: 'Roboto', sans-serif;
 --secondary-font: "Raleway", sans-serif;
---accent-color: #FFFFFF;
+--primary-text-color: #2e2f42;
+  --secondary-text-color: #434455;
+  --text-color-hover: #4d5ae5;
+  --accent-color: #404bbf;
+  --background-color: #ffffff;
+  --background-btn-filters: #f4f4fd;
 }
 
 .list{
